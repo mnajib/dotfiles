@@ -1,15 +1,18 @@
 [user]
-	name = Mahdi Yusuf
-	email = yusuf.mahdi@gmail.com
+	name = Mohd Najib Bin Ibrahim
+	email = m.najib@gmail.com
 
 [github]
-	user = myusuf3
+	user = mnajib
+
+[heroku]
+	account = mnajib
 
 [alias]
-    l = "!source ~/.githelpers && prett_git_log"
+    	l = "!source ~/.githelpers && prett_git_log"
 
 [color]
-    ui = auto
+    	ui = auto
 	diff = auto
 	status = auto
 	branch = auto
@@ -31,6 +34,3 @@
 [core]
 	editor = vim
 	excludesfile = ~/.gitignore
-
-[heroku]
-	account = myusuf3
