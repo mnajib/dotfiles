@@ -1,5 +1,7 @@
-Mahdi Yusuf's Dot Files
+Mohd Najib's Dot Files
 =======================
+
+Forked from: Mahdi Yusuf's. 
 
 These are my configs and setup a system the way I like it.
 
